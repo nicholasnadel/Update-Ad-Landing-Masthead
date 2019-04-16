@@ -2,6 +2,7 @@
 ![Alt Text](https://github.com/nicholasnadel/Update-Ad-Landing-Masthead/blob/master/img/log_into_cascade.gif)
 2. Navigate to the directory at Sites > Chapman.edu > Landing 
 ![Alt Text])(https://i.imgur.com/P5wTZle.gifv)
+
 3. Navigate to each Landing subdirectory (Argyros-School, College-of-Performing-Arts, etc…)
 4. For each page in the subdirectory:  
 a. Select “More” > “Live” to view the current version of the page
