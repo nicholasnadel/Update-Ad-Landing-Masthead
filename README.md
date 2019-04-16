@@ -1,5 +1,6 @@
 1. Log into https://cascade.chapman.edu/login.act
-(https://github.com/nicholasnadel/Update-Ad-Landing-Masthead/blob/master/img/log_into_cascade.gif)
+![Alt Text](https://github.com/nicholasnadel/Update-Ad-Landing-Masthead/blob/master/img/log_into_cascade.gif)
+
 2. Navigate to the directory at Sites > Chapman.edu > Landing 
 3. Navigate to each Landing subdirectory (Argyros-School, College-of-Performing-Arts, etc…)
 4. For each page in the subdirectory:  
